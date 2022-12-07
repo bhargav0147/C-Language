@@ -2,7 +2,7 @@
 main()
 {
 	int c,r,k;
-	for(c=-5;c<=5;c++)
+	for(c=1;c<=5;c++)
 	{
 		for(k=4;k>=c;k--)
 		{
